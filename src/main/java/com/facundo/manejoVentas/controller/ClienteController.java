@@ -12,7 +12,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/clientes")
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://clientes-y-empresa.vercel.app")
 public class ClienteController {
     private final IClienteService clienteService;
 
