@@ -1,1 +1,1 @@
-Documentacion api: https://manejo-ventas.onrender.com/swagger-ui/index.html#/
+Documentacion api: https://manejo-ventas-production.up.railway.app/swagger-ui/index.html#/
